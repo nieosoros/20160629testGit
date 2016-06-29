@@ -6,4 +6,5 @@
 66666666
 77777777
 77777777
-bug2 is ok now
+
+bug1 is right now
